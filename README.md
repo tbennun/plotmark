@@ -15,7 +15,9 @@ plt.savefig('example.png')
 ```
 
 would yield:
+
 ![example 1](example1.png)
 
 In a denser range, the output would be:
+
 ![example 2](example2.png)
